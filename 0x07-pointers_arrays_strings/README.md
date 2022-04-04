@@ -1,1 +1,3 @@
- Even more pointers, arrays and strings
+Outline
+
+unupdated

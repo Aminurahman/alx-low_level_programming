@@ -21,7 +21,7 @@ char *rot13(char *s)
 				break;
 			}
 		}
-		coun++;
+		count++;
 	}
 
 	return (s);
